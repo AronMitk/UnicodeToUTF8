@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTFConverterLibrary", "UTFConverterLibrary\UTFConverterLibrary.csproj", "{7A17DBD8-7974-4747-B9F9-91DD6D85171B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTFConverter_Console", "UTFConverter_Console\UTFConverter_Console.csproj", "{65804A49-5FF3-462B-8C65-DE6CE6C338B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A17DBD8-7974-4747-B9F9-91DD6D85171B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A17DBD8-7974-4747-B9F9-91DD6D85171B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A17DBD8-7974-4747-B9F9-91DD6D85171B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A17DBD8-7974-4747-B9F9-91DD6D85171B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65804A49-5FF3-462B-8C65-DE6CE6C338B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65804A49-5FF3-462B-8C65-DE6CE6C338B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65804A49-5FF3-462B-8C65-DE6CE6C338B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65804A49-5FF3-462B-8C65-DE6CE6C338B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E05597-0285-4EBD-8DEB-B49671A8F00C}
+	EndGlobalSection
+EndGlobal
